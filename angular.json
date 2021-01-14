@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "angular-graphql"
+  "defaultProject": "angular-graphql",
+  "cli": {
+    "analytics": "e61abc6c-8c78-400e-b747-22f99467a64d"
+  }
 }

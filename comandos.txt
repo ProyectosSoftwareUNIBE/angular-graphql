@@ -1,0 +1,2 @@
+ng add apollo-angular
+ng g c home --module app
